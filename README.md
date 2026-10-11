@@ -90,16 +90,13 @@
   <img src="https://streak-stats.demolab.com?user=hari-dev0x&hide_border=true&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats" />
 </p>
 
-<!--
-Optional Contribution Grid Snake Animation:
-To enable the animated snake contribution graph:
-1. Add a GitHub Action workflow (.github/workflows/snake.yml) using Platane/snk.
-2. Output the SVG to an 'output' branch.
-3. Uncomment the element below:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hari-dev0x/hari-dev0x/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari-dev0x/hari-dev0x/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hari-dev0x/hari-dev0x/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/hari-dev0x/hari-dev0x/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
--->
 
 ---
 
