@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+      .header-bar { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 40px; fill: #f0f6fc; letter-spacing: -0.5px; }
+      .handle { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 24px; fill: #58a6ff; font-weight: 500; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; fill: #8b949e; letter-spacing: 1px; font-weight: 500; }
+      .tag { fill: #21262d; stroke: #30363d; stroke-width: 1; rx: 4px; }
+      .tag-text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12px; fill: #8b949e; }
+      .dot-red { fill: #ff5f56; }
+      .dot-yellow { fill: #ffbd2e; }
+      .dot-green { fill: #27c93f; }
+    </style>
+  </defs>
+
+  <!-- Background Card -->
+  <rect class="bg" x="1" y="1" width="1198" height="238" rx="12" ry="12"/>
+
+  <!-- Top Terminal Bar -->
+  <path class="header-bar" d="M 1 13 C 1 6.37 6.37 1 13 1 L 1187 1 C 1193.63 1 1199 6.37 1199 13 L 1199 38 L 1 38 Z"/>
+  
+  <!-- Terminal Window Controls -->
+  <circle class="dot-red" cx="24" cy="20" r="5.5"/>
+  <circle class="dot-yellow" cx="42" cy="20" r="5.5"/>
+  <circle class="dot-green" cx="60" cy="20" r="5.5"/>
+
+  <!-- Terminal Window Title -->
+  <text x="80" y="24" font-family="'SFMono-Regular', Consolas, monospace" font-size="12" fill="#8b949e">hari-dev0x // session.workspace</text>
+
+  <!-- Hero Content -->
+  <g transform="translate(48, 92)">
+    <text class="title" x="0" y="24">Hari <tspan class="handle">// @hari-dev0x</tspan></text>
+    <text class="subtitle" x="0" y="58">SYSTEMS · DESKTOP INTERFACES · WEB TOOLING</text>
+  </g>
+
+  <!-- Tags / Environment Badges at Bottom -->
+  <g transform="translate(48, 185)">
+    <!-- Tag 1 -->
+    <rect class="tag" x="0" y="0" width="95" height="26"/>
+    <text class="tag-text" x="14" y="17">os: linux</text>
+
+    <!-- Tag 2 -->
+    <rect class="tag" x="105" y="0" width="125" height="26"/>
+    <text class="tag-text" x="119" y="17">wm: hyprland</text>
+
+    <!-- Tag 3 -->
+    <rect class="tag" x="240" y="0" width="105" height="26"/>
+    <text class="tag-text" x="254" y="17">shell: bash</text>
+
+    <!-- Tag 4 -->
+    <rect class="tag" x="355" y="0" width="310" height="26"/>
+    <text class="tag-text" x="369" y="17">stack: c · rust · typescript · python</text>
+  </g>
+
+  <!-- Minimal Decorative Tech Grid Pattern on Right -->
+  <g transform="translate(1020, 80)" opacity="0.25">
+    <line x1="0" y1="0" x2="120" y2="0" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="25" x2="120" y2="25" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="50" x2="120" y2="50" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="75" x2="120" y2="75" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="100" x2="120" y2="100" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="0" x2="0" y2="100" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="30" y1="0" x2="30" y2="100" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="60" y1="0" x2="60" y2="100" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="90" y1="0" x2="90" y2="100" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="120" y1="0" x2="120" y2="100" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4,4"/>
+  </g>
+</svg>

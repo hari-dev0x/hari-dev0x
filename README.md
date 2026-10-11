@@ -1,75 +1,120 @@
-<!-- 
-  Future Banner Placeholder:
-  To add custom banner artwork when ready, uncomment the block below and place your image in assets/banner.png:
-  <p align="center">
-    <img src="assets/banner.png" alt="Hari" width="100%">
-  </p>
+<p align="center">
+  <img src="assets/banner.svg" alt="Hari / hari-dev0x" width="100%">
+</p>
+
+<h1 align="center">
+  Hey there, I'm Hari
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=Systems+%26+Desktop+Interfaces;Linux+Environments+%26+Wayland;Full-Stack+Web+Applications;Systems+Programming+in+C%2C+C%2B%2B+%26+Rust" alt="Typing Subtitle" />
+</p>
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  Developer building software across desktop interfaces, system tooling, and web applications.
+</p>
+
+- 🖥️ **Desktop &amp; Systems:** Designing tailored Linux desktop workflows, Wayland compositors, and custom boot transitions.
+- ⚡ **Low-Level Tooling:** Deepening practical experience in C, C++, and Rust for native performance and systems software.
+- 🌐 **Modern Web:** Creating responsive, local-first web applications using TypeScript, React, and Next.js.
+- 📱 **Mobile Exploration:** Developing native Android utilities with Kotlin and the Android SDK.
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <strong>Core Languages &amp; Ecosystem</strong><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=ts,js,python,html,css,bash,c,cpp,cs,rust,kotlin,linux,electron,react,nextjs,android,bun,postgres&perline=9" alt="Core Technologies" />
+</p>
+
+<p align="center">
+  <strong>Exploring &amp; Foundational</strong><br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=java,php" alt="Exploring Technologies" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/HarinarayananBS/Nexis-Browser">🌐 Nexis Browser</a></h4>
+  <p>Privacy-focused desktop browser built with Electron &amp; React. Features native credential management and Ghostery content blocking.</p>
+  <p><sub><code>TypeScript</code> <code>Electron</code> <code>React</code> <code>Bun</code></sub></p>
+  <p><sub>Active Development &nbsp;·&nbsp; <a href="https://harinarayananbs.github.io/Nexis-Browser/">Docs &amp; Preview</a></sub></p>
+</td>
+
+<td width="50%" valign="top">
+  <h4>⚙️ NexOS &amp; NexBoot</h4>
+  <p>Personal Linux environment featuring custom Plymouth boot transitions, SDDM theme tooling, and Hyprland desktop workflows.</p>
+  <p><sub><code>Bash</code> <code>Python</code> <code>Linux</code> <code>Hyprland</code></sub></p>
+  <p><sub>Experimental &nbsp;·&nbsp; Personal Development</sub></p>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/HarinarayananBS/Portfolio">💼 Portfolio Platform</a></h4>
+  <p>Full-stack web architecture with draft workflows, WebP image processing pipelines, and secure authentication.</p>
+  <p><sub><code>TypeScript</code> <code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code></sub></p>
+  <p><sub>Active Development</sub></p>
+</td>
+
+<td width="50%" valign="top">
+  <h4>📱 NSS Report App</h4>
+  <p>Native Android application built for structured report compilation and local-first data persistence.</p>
+  <p><sub><code>Kotlin</code> <code>Android SDK</code> <code>Gradle</code></sub></p>
+  <p><sub>In Development (Local)</sub></p>
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-dev0x&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hari-dev0x&hide_border=true&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats" />
+</p>
+
+<!--
+Optional Contribution Grid Snake Animation:
+To enable the animated snake contribution graph:
+1. Add a GitHub Action workflow (.github/workflows/snake.yml) using Platane/snk.
+2. Output the SVG to an 'output' branch.
+3. Uncomment the element below:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hari-dev0x/hari-dev0x/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 -->
 
-# Hari
-
-Developer building desktop interfaces, system tooling, and web applications. Focused on Linux environments, local-first tools, and clean, functional design.
-
 ---
 
-### Focus & Systems
+<h2 align="center">🌐 Let's Connect</h2>
 
-I build software across desktop, mobile, and web stacks, with a continuous focus on understanding the system beneath the interface:
+<p align="center">
+  <a href="https://github.com/hari-dev0x">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/HarinarayananBS">
+    <img src="https://img.shields.io/badge/Project_Archives-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Project Archives" />
+  </a>
+</p>
 
-- **Desktop & Systems:** Linux desktop configuration, custom boot and session integration, and desktop applications using Electron and native tooling.
-- **Web Applications:** Clean, responsive interfaces and full-stack utilities built primarily with TypeScript, React, and Next.js.
-- **Systems Exploration:** Deepening practical experience in low-level systems programming with C, C++, and Rust, alongside mobile development with Kotlin.
-
----
-
-### Selected Projects
-
-#### [Nexis Browser](https://github.com/HarinarayananBS/Nexis-Browser)
-A privacy-oriented desktop browser built for focused navigation, interface transparency, and desktop integration.
-- **Technologies:** TypeScript, Electron, React, Bun, Tailwind CSS
-- **Key Details:** Native OS credential store integration, Ghostery-powered content blocking, modular IPC architecture, and command palette navigation.
-- **Links:** [Repository](https://github.com/HarinarayananBS/Nexis-Browser) · [Documentation & Preview](https://harinarayananbs.github.io/Nexis-Browser/)
-
-#### NexOS & NexBoot
-A personalized Linux desktop environment and seamless boot-to-session pipeline.
-- **Technologies:** Bash, Python, Linux (Plymouth, SDDM, Hyprland)
-- **Key Details:** Custom Plymouth boot transitions, SDDM theme building scripts, session ergonomics, and desktop configuration tooling.
-- **Status:** Experimental / Active personal development
-
-#### [Portfolio & Content Architecture](https://github.com/HarinarayananBS/Portfolio)
-A full-stack portfolio platform designed for project management and media presentation.
-- **Technologies:** TypeScript, Next.js, Bun, Prisma, PostgreSQL
-- **Key Details:** Guided project drafts, image optimization pipeline (WebP derivatives), and authenticated administration workflows.
-- **Links:** [Repository](https://github.com/HarinarayananBS/Portfolio)
-
-#### NSS Report App
-A native mobile utility for structured report compilation and submission.
-- **Technologies:** Kotlin, Android SDK, Gradle
-- **Key Details:** Mobile data entry, local form persistence, and clean reporting workflows.
-- **Status:** In development (Local)
-
----
-
-### Technologies & Tooling
-
-| Focus Area | Technologies |
-| :--- | :--- |
-| **Built projects with** | Python · HTML · CSS |
-| **Used & code in** | TypeScript · JavaScript · Kotlin · Bash · C · C++ · C# · Rust |
-| **Exploring & basic** | Java · PHP |
-| **Environments & platforms** | Linux (Arch / Hyprland) · Electron · Android |
-
----
-
-### Current Interests
-
-- Deepening knowledge in C, C++, and Rust for systems tooling.
-- Designing cohesive, keyboard-driven Linux workflows with Wayland compositors.
-- Refining desktop application architecture and clean client-side state management.
-
----
-
-### Connect
-
-- **GitHub Profile:** [@hari-dev0x](https://github.com/hari-dev0x)
-- **Project Archives:** [@HarinarayananBS](https://github.com/HarinarayananBS)
+<p align="center">
+  <sub>Building calm, functional software from the terminal to the desktop.</sub>
+</p>
